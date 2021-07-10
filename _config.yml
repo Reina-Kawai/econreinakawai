@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EconMonicaGR.github.io 高媛"
+title                    : "EconKawai.github.io 高媛"
 title_separator          : "-"
-name                     : &name "Yuan \"Monica\" Gao Rollinson"
+name                     : &name "Reina Kawai "
 description              : &description "University of Washington"
-url                      : https://econmonicagr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://reina-kawai.github.io/econreinakawai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "econmonicagr/econmonicagr.github.io"
+repository               : "Reina-Kawai/econreinakawai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan \"Monica\" Gao Rollinson"
+  name             : "Reina Kawai"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Economics"
   #location         : "Seattle, WA"
   employer         : "University of Washington"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email         : "monicagr@uw.edu"
-  linkedin         : "https://www.linkedin.com/in/monicagao"
+  email         : "rkawai7@uw.edu"
+  linkedin         : "https://www.linkedin.com/in/reina-kawai-887a01200"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "econmonicagr"
+  github           : "Reina-Kawai"
   google_plus      :
   keybase          :
   instagram        :
