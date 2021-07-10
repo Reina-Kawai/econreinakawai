@@ -12,13 +12,13 @@ Job Market Paper
 (with Theo Eicher)
 > External sector surveillance and stabilization are core missions of the International Monetary Fund. Since 1992, the IMF approved over 600 crises countries’ loan programs that required reforms and performance targets. IMF programs forecast recovery trajectories that predicate program design. A voluminous literature analyzes IMF crises forecasts but focuses only on GDP/Inflation forecasts in small subsamples. IMF programs originate, however, mostly with balance of payments crises, hence we undertake a comprehensive evaluation of the IMF’s import/export/exchange rate forecasts for program countries. Result reveals a surprising dichotomy in the accuracy of IMF external sector forecasts. Import growth is efficiently and unbiasedly forecast, but export growth and exchange rate depreciations exhibit profound biases and inconsistencies that project unrealistic export and exchange rate targets for crisis countries. Results are largely independent of countries’ income levels or forecast horizons, but not of exchange rate regimes. Forecasts under fixed exchange rate regimes are remarkably inefficient for all external sector forecasts. 
 
-Working Paper
+<!--Working Paper
 ===
-<!--[Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?](https://econmonicagr.github.io/files/NOR_MaPP.pdf)
+[Exchange Rates and Domestic Credit – Can Macroprudential Policy Reduce the Link?](https://econmonicagr.github.io/files/NOR_MaPP.pdf)
 (with Erlend Walter Nier and Thorvardur Tjoervi Olafsson)
-> This paper examines empirically the role of macroprudential policy in addressing the effects of external shocks on financial stability. In a sample of 62 economies over the period of 2000:Q1–2016:Q4, our dynamic panel regressions show that an appreciation of the local exchange rate is associated with a subsequent increase in the domestic credit gap, while a prior tightening of macroprudential policies dampens this effect. These results are strong for small open economies, and robust when we explicitly account for potential simultaneity and reverse causality biases. We also examine a feedback effect where strong domestic credit pulls in additional cross-border funding, potentially further increasing systemic risk, and find that targeted capital controls can play a complementary role in alleviating this effect.-->
+> This paper examines empirically the role of macroprudential policy in addressing the effects of external shocks on financial stability. In a sample of 62 economies over the period of 2000:Q1–2016:Q4, our dynamic panel regressions show that an appreciation of the local exchange rate is associated with a subsequent increase in the domestic credit gap, while a prior tightening of macroprudential policies dampens this effect. These results are strong for small open economies, and robust when we explicitly account for potential simultaneity and reverse causality biases. We also examine a feedback effect where strong domestic credit pulls in additional cross-border funding, potentially further increasing systemic risk, and find that targeted capital controls can play a complementary role in alleviating this effect.
 
-<!--Other Policy Paper:
+Other Policy Paper:
 ===
 * ["The State of Emerging Markets: A New Perspective on Clusters and Taxonomies."](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Emerging-Market-Heterogeneity-Insights-from-Cluster-and-Taxonomy-Analysis-43085), 2015, IMF Working Paper No. 15/155 *(with Zhang, Z.)*
 
