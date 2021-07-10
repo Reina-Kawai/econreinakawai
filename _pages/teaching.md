@@ -24,7 +24,5 @@ Overview of My Course Evaluations
   * ECON 201 (Introductory Macroeconomics)   *Win2019, Spr2020* 
   
 ## Consultant
-    <!--* Econometric Consultant for Honors Students Theses in Economics   *Win2019, Spr2019* -->
-    
-    
-  <!--* QMETH 201 (Introduction to Statistical Methods)   *Aut2018*  -->
+ <!--* Econometric Consultant for Honors Students Theses in Economics   *Win2019, Spr2019* 
+  * QMETH 201 (Introduction to Statistical Methods)   *Aut2018*  -->
