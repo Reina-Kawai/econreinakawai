@@ -25,4 +25,6 @@ Overview of My Course Evaluations
   
 ## Consultant
     <!--* Econometric Consultant for Honors Students Theses in Economics   *Win2019, Spr2019* -->
+    
+    
   <!--* QMETH 201 (Introduction to Statistical Methods)   *Aut2018*  -->
