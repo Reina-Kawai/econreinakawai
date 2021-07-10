@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## Teach Evaluations
-Please find my teach evaluations [here](https://econmonicagr.github.io/files/MonicaGR_Teach_Evaluation_combined.pdf).
+<!--Please find my teach evaluations [here](https://econreinakawai.github.io/files/MonicaGR_Teach_Evaluation_combined.pdf).
 
 Overview of My Course Evaluations
 
-  <!--<img src="https://econmonicagr.github.io/files/evaluation_graph.jpg" width="600">-->
+  <img src="https://econmonicagr.github.io/files/evaluation_graph.jpg" width="600">-->
 
 
 ## Instructor  
