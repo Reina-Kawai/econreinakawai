@@ -26,4 +26,4 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem: jekyll-sitemap
+# gem: jekyll-sitemap
