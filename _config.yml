@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  plugins: - jekyll-sitemap
 
 # SEO Related
 google_site_verification :
@@ -311,4 +310,6 @@ compress_html:
   ignore:
     envs: development
 
-
+url: "https://reina-kawai.github.io/econreinakawai.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
