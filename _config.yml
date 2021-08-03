@@ -309,6 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-url: "https://reina-kawai.github.io/econreinakawai.github.io/" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
+
