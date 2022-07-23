@@ -23,9 +23,11 @@ Please find my Curriculum Vitae [here](https://github.com/Reina-Kawai/econreinak
 
 
 Research Field
-------
-* International Macroeconomics
-* Development
 * Applied Econometrics
+* Time Series Forecasting
+* Macro Finance 
+* International Macroeconomics
+
+
   
   
